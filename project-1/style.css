@@ -18,26 +18,27 @@ p{
   font-size: 14pt;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-img2{
+.img2{
   margin-right: 0.5cm;
-  height: 1cm;
-  width: 1cm;
+  height: 200px;
+  width: 250px;
 }
-img3{
+.img3{
   display: block;
   margin: 0 auto;
   width: 150 px;
 }
 footer{
   display: box-shadow ;
-  color: seagreen
+  color: seagreen;
   
 }
-img4{
-  width: 2cm;
-  height: 0.5cm;
+.img4{
+  width: 250px;
+  height: 220px;
 }
-img5{
-  width: 1cm;
-  height: 2cm
+.img5{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
 }
